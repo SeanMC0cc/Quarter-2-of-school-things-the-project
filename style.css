@@ -1,0 +1,122 @@
+body{
+    background-image: url(img/Food-img.jpg);
+    background-size: cover;
+}
+.Search{
+    margin-right: 10em;
+}
+.carousel{
+    background-color: rgb(123, 123, 123);
+}
+.navbar{
+    background-color: rgb(123, 123, 123);
+}
+.card {
+    text-align: center;
+}
+#yellow-color {
+    background-color: #FFDF82;
+}
+#Vermillion-color {
+    background-color: #D9381E;
+}
+#Teal-color {
+    background-color: #008080;
+}
+#skin-color {
+    background-color: #d0b7ac;
+}
+.container, .table {
+    background-image: url(img/Food-img.jpg);
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-image: url(img/Food-img.jpg);
+    background-size: cover; 
+}
+th, td {
+    background-color: #96D4D4;
+}
+#halo-halo {
+    background-image: url(img/Halo-halo.jpg);
+    background-size: cover;
+}
+.P, h4, #halo-btn{
+    text-align: center;
+}
+#halo-btn, #Adobo-bnt, #corn-bnt, #leche-flan-bnt, #Macaroni-salad-bnt, #puto-bnt, #Sisig-bnt, #Lechon-bnt, #Lumpia-bnt{
+    background-color: #333;
+    color: white;
+}
+fieldset, form{
+    color: rgb(255, 255, 255);
+    background-image: url(img/Food-img.jpg);
+    text-align: center;
+}
+
+.card{
+    margin-top: 10em;
+}
+.row{
+    font-size: 2em;
+}
+#true_h1 {
+    font-size: 4em;
+    color: azure;
+    text-align: center;
+}
+#Halo-halo{
+    text-align: left;
+    margin-left: 100px;
+}
+#Adobo{
+    background-image: url(img/Adobo.jpg);
+    background-size: cover;
+}
+#Corn-soup{
+    background-image: url(img/Crab\ and\ corn\ soup.jpg);
+}
+#leche-flan{
+    background-image: url(img/leche\ flan\ sweet.jpg);
+    background-size: contain;
+}
+#Sisig{
+    background-image: url(img/sisig.jpg);
+    background-size: cover;
+}
+#Macaroni-salad{
+    background-image: url(img/Macaroni\ salad.jpg);
+    background-size: cover;
+}
+#puto{
+    background-image: url(img/Puto-Cheese.jpg);
+    background-size: cover;
+}
+#Lechon{
+    background-image: url(img/Lechon.jpg);
+    background-size: cover;
+}
+#Lumpia{
+    background-image: url(img/Lumpia.jpg);
+    background-size: cover;
+}
+aside {
+    width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: right;
+    font-style: italic;
+    background-color: #9c9c9c;
+  }
+  
+  aside > p {
+    margin: 0.5rem;
+  }
+h6{
+    width: 30%;
+    padding-left: 15px;
+    margin-right: 100px;
+    float: left;
+    font-size: 10px;
+}
